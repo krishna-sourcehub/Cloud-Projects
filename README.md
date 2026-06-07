@@ -505,3 +505,42 @@ This project provides hands-on experience with:
 
 This project is for educational and learning purposes.
 Built as a personal cloud engineering lab using open-source software.
+
+
+## Screenshots
+
+## Grafana Dashboard
+
+![Grafana](screenshots/grafana.png)
+
+## Prometheus Dashboard
+
+![Prometheus](screenshots/prometheus.png)
+
+## Gitea Dashboard
+
+![Gitea](screenshots/gitea.png)
+
+## MinIO Dashboard
+
+![MinIO](screenshots/minio.png)
+
+
+## Portainer Dashboard
+
+![Portainer](screenshots/portainer.png)
+
+
+## Nextcloud Dashboard
+
+![Nextcloud](screenshots/nextcloud.png)
+
+## NGINX-Manager Dashboard
+
+![NGINX-Manager](screenshots/nginx-manager.png)
+
+
+## Prometheus-Metrics
+
+![prometheus-metrics](screenshots/prometheus-metrics-exporter.png)
+
