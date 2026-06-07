@@ -506,6 +506,12 @@ This project provides hands-on experience with:
 This project is for educational and learning purposes.
 Built as a personal cloud engineering lab using open-source software.
 
+## Architecture 
+
+
+![architecture](screenshots/architecture-diagram.png)
+
+
 
 ## Screenshots
 
